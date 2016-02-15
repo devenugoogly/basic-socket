@@ -1,0 +1,8 @@
+This project contains basic client and a multi-threaded server that does serialization/deserialization by itself.
+
+
+TODO
+
+1. Make IP and port configurable without changing code
+2. Integrate existing PickleBuilder in the code
+3. Add Exception handling  
