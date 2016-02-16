@@ -1,3 +1,4 @@
+The structure of this project is inherited from Professor John Gash Java code for CMPE 275 class course at San Jose State University.
 This project contains basic client and a multi-threaded server that does serialization/deserialization by itself.
 
 
@@ -6,3 +7,10 @@ TODO
 1. Make IP and port configurable without changing code
 2. Integrate existing PickleBuilder in the code
 3. Add Exception handling  
+
+
+
+Steps to run:
+1. Install PyDev plugin in eclipse
+2. Install pip using "sudo easy_install pip"
+3. Install enum module as it is not available bydefault with python
